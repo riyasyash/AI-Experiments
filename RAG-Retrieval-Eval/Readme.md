@@ -1,0 +1,1 @@
+Unzip the session2_docs.zip before running the `main.py`
