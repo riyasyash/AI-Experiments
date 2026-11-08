@@ -1,0 +1,4 @@
+litellm
+supermemory
+tiktoken
+python-dotenv
